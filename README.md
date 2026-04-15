@@ -1,4 +1,4 @@
-# 🛒 MIS 319 Content Management Systems – Final Project
+# MIS 319 Content Management Systems – Final Project
 
 ## Student Information
 **Name:** Derya Turan  
@@ -16,7 +16,7 @@ January 5, 2026
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 In this project, I developed an e-commerce application that sells home decor products using the R programming language. The application was built as an interactive web system using **Shiny** and **shinydashboard**.
 
 The system includes basic e-commerce functions such as:
